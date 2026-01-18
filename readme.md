@@ -40,7 +40,6 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
   - Goal selection: fat loss, maintenance, or muscle gain
   - Diet style, allergies, food preferences, deficiencies, health notes
 - AI-generated summary and validation before completion
-- Login via google auth, meta or email password.
 <div style="display: flex; gap: 150px; align-items: center ; width:100% ">
   <img src="images/V1 - Vue admin.png" alt="2023 Robot"  style="object-fit: contain;"/>
   <img src="images/V2 - Vue admin.png" alt="2023 Robot"  style="object-fit: contain;"/>
@@ -59,6 +58,8 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
   - Nutritionist booking
   - AI chat
 
+  <img src="images/dashboard.png" alt="2023 Robot"  style="object-fit: contain;"/>
+
 ---
 
 ### 3. AI Meal Plan Engine (Core Feature)
@@ -76,6 +77,9 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
 - PDF export
 - AI-based supplement suggestions when deficiencies are detected
 
+  <img src="images/02.png" alt="2023 Robot"  style="object-fit: contain;"/>
+
+
 ---
 
 ### 4. Blood Test Integration (Premium)
@@ -87,6 +91,9 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
   - Supplement recommendations
 - Historical data and progress tracking
 
+  <img src="images/01.png" alt="2023 Robot"  style="object-fit: contain;"/>
+
+
 ---
 
 ### 5. Smart Reminders & Retention
@@ -96,6 +103,8 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
 - Custom frequency settings
 - Escalation if reminders are ignored
 - Snooze and pause options
+  <img src="images/Onboarding-analyses-01.png" alt="2023 Robot"  style="object-fit: contain;"/>
+
 
 ---
 
@@ -108,19 +117,33 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
   - Blood test features
   - Priority AI chat
   - Coach/manager access
+  <img src="images/04.png" alt="2023 Robot"  style="object-fit: contain;"/>
 
 ---
 
 ### 7. Additional Features
 - French & English support
-- Dark and light modes
 - Public/private profile toggle (future social features)
 - Coach dashboard for team monitoring
-- Educational content via blog and podcasts
 - Automated 7-day onboarding email sequence
 - Direct AI chat for questions, explanations, and meal generation
 
 ---
+
+### 8. Admin Dashboard
+- Manage all users:
+  - Add or remove users
+  - View user profiles, progress, and data
+  - Track payments and subscription status
+- Role management:
+  - Assign **Admin** or **Coach** roles
+  - Control access to features based on role
+- Data overview:
+  - Analytics for user activity, meal usage, and compliance
+  - Financial reports and subscription summaries
+- Secure admin-only interface
+
+  <img src="images/7.png" alt="2023 Robot"  style="object-fit: contain;"/>
 
 
 
