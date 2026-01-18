@@ -40,6 +40,7 @@ I designed and developed **Agon** while working as a developer at **DevFlows**, 
   - Goal selection: fat loss, maintenance, or muscle gain
   - Diet style, allergies, food preferences, deficiencies, health notes
 - AI-generated summary and validation before completion
+- Login via google auth, meta or email password.
 <div style="display: flex; gap: 150px; align-items: center ; width:100% ">
   <img src="images/V1 - Vue admin.png" alt="2023 Robot"  style="object-fit: contain;"/>
   <img src="images/V2 - Vue admin.png" alt="2023 Robot"  style="object-fit: contain;"/>
